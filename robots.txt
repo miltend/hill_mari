@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miltend.github.io/hill_mari/sitemap.xml
